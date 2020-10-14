@@ -1,0 +1,5 @@
+---
+applications:
+- name: linux_tweet_app
+  buildpacks:
+    - staticfile_buildpack
