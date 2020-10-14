@@ -1,0 +1,5 @@
+---
+applications:
+- name: bulletin-board-app
+  buildpacks:
+    - nodejs_buildpack

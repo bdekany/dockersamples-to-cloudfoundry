@@ -11,5 +11,6 @@ But how to share them?
 https://www.twitch.tv/susedevzone
 
 ## Samples already done:
- - linux_tweet_app : It Works
+ - linux_tweet_app: It Works
+ - bulletin-board-app: It Works
  
